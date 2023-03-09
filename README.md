@@ -1,5 +1,5 @@
 # Notify
-A Speech-To-Text app that make note taking easier than ever
+"A Speech-To-Text app that make note taking easier than ever"
 
 # About the Project
   Have you ever been in a lecture where you need to pay all your attention, and yet take notes? Did you struggle to do both together? Don't worry, we've got you covered!
